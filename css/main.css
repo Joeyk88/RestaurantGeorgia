@@ -35,7 +35,7 @@ body {
   width: 50%;
   position: absolute;
   box-shadow: 0 15px 60px black;
-  opacity: 7;
+  opacity: 0.7;
   border-radius: 10px;
 }
 .navbar-navigation-left .left-img-1 {
